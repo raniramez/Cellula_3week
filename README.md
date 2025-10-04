@@ -39,8 +39,8 @@ It retrieves semantically similar programming problems, builds a contextual prom
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/raniramez/rag-code-generator.git
-cd rag-code-generator
+git clone https://github.com/raniramez/Cellula_3week.git
+cd Cellula_3week
 pip install -r requirements.txt
 ```
 
